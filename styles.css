@@ -167,6 +167,9 @@ body.light{
 }
 body.light .background{
   background: url("images/bg-desktop-light.jpg") no-repeat;
+  background-size: cover;
+  width: 100vw;
+  height: 40vh;
 }
 body.light .dragdrop{
   color: hsl(236, 9%, 61%);
